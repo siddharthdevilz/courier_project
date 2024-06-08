@@ -1,0 +1,6 @@
+courier_project:
+  outputs:
+    dev:
+      type: duckdb
+      path: 'courierdb.duckdb'
+  target: dev

@@ -1,0 +1,16 @@
+country,state_code,timezone
+USA,CA,America/Los_Angeles
+USA,NY,America/New_York
+Canada,ON,America/Toronto
+Canada,BC,America/Vancouver
+Mexico,CMX,America/Mexico_City
+Brazil,SP,America/Sao_Paulo
+UK,ENG,Europe/London
+Germany,BE,Europe/Berlin
+France,IDF,Europe/Paris
+Japan,TY,Asia/Tokyo
+India,MH,Asia/Kolkata
+Australia,NSW,Australia/Sydney
+Russia,MOW,Europe/Moscow
+China,BJ,Asia/Shanghai
+South Africa,GT,Africa/Johannesburg
