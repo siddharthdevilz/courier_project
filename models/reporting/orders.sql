@@ -1,4 +1,5 @@
-{{
+-- for an incremental strategy with bigquery/snowflake
+{# {{
     config(
         materialized='incremental',
         on_schema_change='append_new_columns',
@@ -11,7 +12,9 @@
         incremental_strategy='merge'
     )
 
-}}
+}} #}
+
+{{ config(materialized='table') }}
 
 with base as
 (
@@ -74,12 +77,13 @@ with base as
         on ord.id = cc.order_id
     left join {{ ref('dim_parcel') }} as parcel
         on ord.parcel_dimension_id = parcel.id
-
+        
+    -- for an incremental strategy with bigquery/snowflake
     -- Take only newly updated records on incremental runs
-    {% if is_incremental() %}
-    where
-        ord.updated_at > (select max(updated_at) from {{ this }})
-    {% endif %}
+    -- {% if is_incremental() %}
+    -- where
+    --     ord.updated_at > (select max(updated_at) from {{ this }})
+    -- {% endif %}
 )
 
 select * from base
