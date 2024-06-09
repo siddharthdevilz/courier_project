@@ -1,0 +1,127 @@
+version: 2
+
+models:
+  - name: orders
+    description: ""
+    columns:
+      - name: order_id
+        data_type: integer
+        description: ""
+        tests:
+          - unique
+
+      - name: order_placed_at
+        data_type: timestamp
+        description: ""
+
+      - name: order_date_local
+        data_type: varchar
+        description: ""
+
+      - name: origin_country
+        data_type: varchar
+        description: ""
+
+      - name: origin_state_code
+        data_type: varchar
+        description: ""
+
+      - name: origin_suburb
+        data_type: varchar
+        description: ""
+
+      - name: origin_postcode
+        data_type: integer
+        description: ""
+
+      - name: destination_country
+        data_type: varchar
+        description: ""
+
+      - name: destination_state_code
+        data_type: varchar
+        description: ""
+
+      - name: destination_suburb
+        data_type: varchar
+        description: ""
+
+      - name: destination_postcode
+        data_type: integer
+        description: ""
+
+      - name: courier
+        data_type: varchar
+        description: ""
+
+      - name: courier_base_cost_ex_tax
+        data_type: double
+        description: ""
+
+      - name: courier_fuel_surcharge_ex_tax
+        data_type: double
+        description: ""
+
+      - name: courier_currency
+        data_type: varchar
+        description: ""
+
+      - name: sender_id
+        data_type: integer
+        description: ""
+
+      - name: order_pricing_plan
+        data_type: varchar
+        description: ""
+
+      - name: customer_base_price_ex_tax
+        data_type: double
+        description: ""
+
+      - name: customer_fuel_surcharge_ex_tax
+        data_type: double
+        description: ""
+
+      - name: marketing_discount_ex_tax
+        data_type: double
+        description: ""
+
+      - name: discount_name
+        data_type: varchar
+        description: ""
+
+      - name: customer_currency
+        data_type: varchar
+        description: ""
+
+      - name: first_mile_option
+        data_type: varchar
+        description: ""
+
+      - name: product_code
+        data_type: varchar
+        description: ""
+
+      - name: weight_value
+        data_type: double
+        description: ""
+
+      - name: volume_value
+        data_type: double
+        description: ""
+
+      - name: weight_units
+        data_type: varchar
+        description: ""
+
+      - name: volume_units
+        data_type: varchar
+        description: ""
+
+      - name: order_state
+        data_type: varchar
+        description: ""
+
+      - name: updated_at
+        data_type: timestamp
+        description: ""
