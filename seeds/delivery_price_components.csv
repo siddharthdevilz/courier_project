@@ -1,101 +1,70 @@
 order_id,component,amount,currency
-96,fuel_surcharge_ex_tax,29.34,EUR
-35,Service Fee,41.91,AUD
-7,Service Fee,35.22,USD
-87,Service Fee,38.61,AUD
-25,base_price_ex_tax,11.03,AUD
-17,Service Fee,20.13,USD
-23,fuel_surcharge_ex_tax,15.94,GBP
-51,Service Fee,33.06,GBP
-32,fuel_surcharge_ex_tax,45.79,GBP
-15,base_price_ex_tax,47.82,USD
-84,base_price_ex_tax,6.78,USD
-47,Service Fee,14.66,EUR
-72,fuel_surcharge_ex_tax,25.12,GBP
-24,Service Fee,49.29,USD
-59,base_price_ex_tax,41.17,USD
-84,Service Fee,44.51,EUR
-7,fuel_surcharge_ex_tax,10.05,GBP
-59,Service Fee,33.51,EUR
-74,Service Fee,48.7,GBP
-22,fuel_surcharge_ex_tax,12.52,EUR
-53,Service Fee,11.27,EUR
-34,base_price_ex_tax,20.26,EUR
-19,base_price_ex_tax,26.92,AUD
-76,base_price_ex_tax,23.19,AUD
-69,Service Fee,47.11,GBP
-9,Service Fee,14.6,AUD
-35,Service Fee,35.57,AUD
+1,base_price_ex_tax,36.62,GBP
 3,fuel_surcharge_ex_tax,13.31,AUD
-5,fuel_surcharge_ex_tax,19.93,USD
-11,base_price_ex_tax,44.2,EUR
-98,fuel_surcharge_ex_tax,43.63,GBP
-26,fuel_surcharge_ex_tax,29.49,EUR
-98,Service Fee,29.66,USD
-87,Service Fee,36.5,USD
-64,Service Fee,20.85,EUR
-45,base_price_ex_tax,33.94,GBP
-50,base_price_ex_tax,37.85,USD
-56,fuel_surcharge_ex_tax,48.05,GBP
-93,fuel_surcharge_ex_tax,13.31,USD
-10,base_price_ex_tax,9.91,EUR
-61,Service Fee,48.17,GBP
-7,Service Fee,8.03,GBP
-32,Service Fee,10.7,AUD
-23,base_price_ex_tax,13.41,GBP
-97,base_price_ex_tax,27.87,AUD
-75,Service Fee,28.63,USD
-49,base_price_ex_tax,5.53,EUR
-22,fuel_surcharge_ex_tax,31.05,USD
-1,Service Fee,36.62,GBP
-70,fuel_surcharge_ex_tax,14.29,USD
-61,fuel_surcharge_ex_tax,46.4,AUD
-21,base_price_ex_tax,37.72,AUD
-3,base_price_ex_tax,11.78,EUR
-100,fuel_surcharge_ex_tax,33.41,GBP
-88,fuel_surcharge_ex_tax,43.09,AUD
-12,Service Fee,31.04,AUD
-83,Service Fee,42.1,EUR
-81,fuel_surcharge_ex_tax,13.63,USD
-37,base_price_ex_tax,22.45,EUR
-63,Service Fee,42.87,EUR
-41,base_price_ex_tax,47.95,AUD
-13,base_price_ex_tax,32.03,AUD
-50,base_price_ex_tax,42.78,EUR
-15,Service Fee,17.31,GBP
-50,base_price_ex_tax,22.83,AUD
-78,Service Fee,17.44,AUD
-8,base_price_ex_tax,22.06,AUD
 4,fuel_surcharge_ex_tax,17.4,USD
-61,fuel_surcharge_ex_tax,49.53,AUD
-60,Service Fee,46.58,USD
-11,base_price_ex_tax,27.35,EUR
-44,Service Fee,39.34,AUD
-73,base_price_ex_tax,34.92,USD
+5,fuel_surcharge_ex_tax,19.93,USD
+7,base_price_ex_tax,35.22,USD
+8,base_price_ex_tax,22.06,AUD
+9,base_price_ex_tax,14.6,AUD
+10,base_price_ex_tax,9.91,EUR
+11,base_price_ex_tax,44.2,EUR
+12,base_price_ex_tax,31.04,AUD
+13,base_price_ex_tax,32.03,AUD
+15,base_price_ex_tax,47.82,USD
+17,base_price_ex_tax,20.13,USD
+19,base_price_ex_tax,26.92,AUD
+21,base_price_ex_tax,37.72,AUD
+22,fuel_surcharge_ex_tax,12.52,EUR
+23,fuel_surcharge_ex_tax,15.94,GBP
+24,base_price_ex_tax,49.29,USD
+25,base_price_ex_tax,11.03,AUD
+26,fuel_surcharge_ex_tax,29.49,EUR
+28,base_price_ex_tax,16.06,USD
 31,base_price_ex_tax,20.49,AUD
-81,Service Fee,8.15,USD
-71,fuel_surcharge_ex_tax,45.87,AUD
-9,Service Fee,7.37,EUR
-47,Service Fee,8.28,GBP
-28,Service Fee,16.06,USD
-85,fuel_surcharge_ex_tax,40.09,EUR
-75,fuel_surcharge_ex_tax,6.24,EUR
-95,base_price_ex_tax,35.04,USD
-47,fuel_surcharge_ex_tax,34.5,USD
-91,fuel_surcharge_ex_tax,7.42,USD
+32,fuel_surcharge_ex_tax,45.79,GBP
+34,base_price_ex_tax,20.26,EUR
+35,base_price_ex_tax,41.91,AUD
+37,base_price_ex_tax,22.45,EUR
 39,fuel_surcharge_ex_tax,44.87,AUD
-41,base_price_ex_tax,37.52,EUR
-8,base_price_ex_tax,17.39,AUD
-89,Service Fee,13.76,AUD
-26,fuel_surcharge_ex_tax,48.42,USD
-35,fuel_surcharge_ex_tax,17.2,AUD
-47,Service Fee,45.37,AUD
-87,base_price_ex_tax,11.76,GBP
-66,base_price_ex_tax,21.07,AUD
-11,Service Fee,35.35,GBP
+41,base_price_ex_tax,47.95,AUD
+43,base_price_ex_tax,12.71,USD
+44,base_price_ex_tax,39.34,AUD
+45,base_price_ex_tax,33.94,GBP
+47,base_price_ex_tax,14.66,EUR
+49,base_price_ex_tax,5.53,EUR
+50,base_price_ex_tax,37.85,USD
+51,base_price_ex_tax,33.06,GBP
+53,base_price_ex_tax,11.27,EUR
 54,base_price_ex_tax,47.24,GBP
-41,Service Fee,46.71,AUD
+56,fuel_surcharge_ex_tax,48.05,GBP
 58,fuel_surcharge_ex_tax,48.86,EUR
-88,base_price_ex_tax,39.1,GBP
-43,Service Fee,12.71,USD
-80,Service Fee,26.04,EUR
+59,base_price_ex_tax,41.17,USD
+60,base_price_ex_tax,46.58,USD
+61,base_price_ex_tax,48.17,GBP
+63,base_price_ex_tax,42.87,EUR
+64,base_price_ex_tax,20.85,EUR
+66,base_price_ex_tax,21.07,AUD
+69,base_price_ex_tax,47.11,GBP
+70,fuel_surcharge_ex_tax,14.29,USD
+71,fuel_surcharge_ex_tax,45.87,AUD
+72,fuel_surcharge_ex_tax,25.12,GBP
+73,base_price_ex_tax,34.92,USD
+74,base_price_ex_tax,48.7,GBP
+75,base_price_ex_tax,28.63,USD
+76,base_price_ex_tax,23.19,AUD
+78,base_price_ex_tax,17.44,AUD
+80,base_price_ex_tax,26.04,EUR
+81,fuel_surcharge_ex_tax,13.63,USD
+83,base_price_ex_tax,42.1,EUR
+84,base_price_ex_tax,6.78,USD
+85,fuel_surcharge_ex_tax,40.09,EUR
+87,base_price_ex_tax,38.61,AUD
+88,fuel_surcharge_ex_tax,43.09,AUD
+89,base_price_ex_tax,13.76,AUD
+91,fuel_surcharge_ex_tax,7.42,USD
+93,fuel_surcharge_ex_tax,13.31,USD
+95,base_price_ex_tax,35.04,USD
+96,fuel_surcharge_ex_tax,29.34,EUR
+97,base_price_ex_tax,27.87,AUD
+98,fuel_surcharge_ex_tax,43.63,GBP
+100,fuel_surcharge_ex_tax,33.41,GBP
